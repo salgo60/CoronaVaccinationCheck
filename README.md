@@ -23,4 +23,4 @@ Notebooks for accessing data on [github owid covid-19-data vaccinations country_
      * [nominal GDP per Capita](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita) -> Wikidata Property  [P2132](https://www.wikidata.org/wiki/Property_talk:P2132) 
      * [PPP GDP per capita](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita)  -> Wikidata Property [P2299](https://www.wikidata.org/wiki/Property_talk:P2299)
      * [Human Development Index](http://hdr.undp.org/en/content/human-development-index-hdi) -> Wikidata Property [P1081](https://www.wikidata.org/wiki/Property_talk:P1081) 
-  * plot Corona_VaccinationperCountryPopulation
+  * plot [Corona_VaccinationperCountryPopulation](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation.png?raw=true)
