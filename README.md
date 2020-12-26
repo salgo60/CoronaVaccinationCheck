@@ -15,3 +15,12 @@ Notebooks for accessing data on [github owid covid-19-data vaccinations country_
 
 ![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
+### Version history
+* 0.3
+  * added translations of Labels in data to Wikidata Qnumber --> [Semantic interoperability](https://en.wikipedia.org/wiki/Semantic_interoperability#:~:text=Semantic%20interoperability%20is%20the%20ability,data%20federation%20between%20information%20systems.)
+  * retrieved country data from [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see  [query](https://w.wiki/r$X)
+     * [ISO 3166-1 alpha-3 code ](https://en.wikipedia.org/wiki/ISO_3166-1) -> Wikidata Property [P298](https://www.wikidata.org/wiki/Property_talk:P298) 
+     * [nominal GDP per Capita](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita) -> Wikidata Property  [P2132](https://www.wikidata.org/wiki/Property_talk:P2132) 
+     * [PPP GDP per capita](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita)  -> Wikidata Property [P2299](https://www.wikidata.org/wiki/Property_talk:P2299)
+     * [Human Development Index](http://hdr.undp.org/en/content/human-development-index-hdi) -> Wikidata Property [P1081](https://www.wikidata.org/wiki/Property_talk:P1081) 
+  * plot Corona_VaccinationperCountryPopulation
