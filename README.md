@@ -11,7 +11,7 @@ Notebooks for accessing data on [github owid covid-19-data vaccinations country_
        * Sweden 
          * 2020-12-22 [www.regeringen.se](https://www.regeringen.se/artiklar/2020/12/vaccinering-mot-covid-19-inleds-den-27-december) Pfizer/BioNTech start 27 dec 9 750 doses 
                   
-![Corona_Vaccination / Population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_sns.png?raw=true "Corona Vaccination per population")         
+![Corona_Vaccination / Population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true "Corona Vaccination per population")         
 
 ![Corona_Vaccination per Country](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountry.png?raw=true "Corona Vaccination per Country")         
 
@@ -19,7 +19,7 @@ Notebooks for accessing data on [github owid covid-19-data vaccinations country_
 
 ### Version history
 * 0.302
-  * [Seaborn](https://seaborn.pydata.org/) used to create barchart
+  * [Seaborn](https://seaborn.pydata.org/) used to create [barchart](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true)
 * 0.3
   * as data is reported both for United Kingdom but also subnational data England, Scotland, Northern Ireland, Wales see [issue 228](https://github.com/owid/covid-19-data/issues/228) this version filter subnational data out. Subnational data have been published quite irregularly so far...
   * added translations of Labels in data to Wikidata Qnumber --> [Semantic interoperability](https://en.wikipedia.org/wiki/Semantic_interoperability#:~:text=Semantic%20interoperability%20is%20the%20ability,data%20federation%20between%20information%20systems.) with Wikidata
