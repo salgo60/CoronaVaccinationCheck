@@ -10,7 +10,7 @@ Notebooks for accessing data on [github owid covid-19-data vaccinations country_
     * Unsure were we will find Sweden data see also [description covid-19-data update procedures](https://github.com/owid/covid-19-data/pull/229#issuecomment-751218953) --> there is a lack of machine readable data
        * Sweden 
          * 2020-12-22 [www.regeringen.se](https://www.regeringen.se/artiklar/2020/12/vaccinering-mot-covid-19-inleds-den-27-december) Pfizer/BioNTech start 27 dec 9 750 doses 
-                  
+* [CoronaVaccinationCheck Board](https://github.com/salgo60/CoronaVaccinationCheck/projects/1)                  
 ![Corona_Vaccination / Population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true "Corona Vaccination per population")         
 
 ![Corona_Vaccination per Country](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountry.png?raw=true "Corona Vaccination per Country")         
