@@ -35,7 +35,7 @@
 ![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
 ### Version history 
-* 0.5
+* 0.6
   * new charts 
      * [EU member scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/images/Corona_VaccinationperCountryPopulation_EUCategorical_scatterplot.png "EU member scatter plot")          
      * [Member G8 scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/images/Corona_VaccinationperCountryPopulation_G8_Categorical_scatterplot.png "G8 member scatter plot")          
