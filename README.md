@@ -23,7 +23,7 @@ see [Notebook](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Check
 
 ![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
-### Version history
+### Version history 
 * 0.5
   * new chart [Continent scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png "Corona Vaccination Correlation")          
   * new parameter [continent](https://w.wiki/sBb) from Wikidata
