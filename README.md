@@ -8,7 +8,7 @@
 * [Notebook](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Check%20Corona%20Vaccination.ipynb) "Corona vaccine progress"
   *  accessing data from 
      * [github owid covid-19-data vaccinations country_data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations/country_data) 
-     * [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see [WD query](https://w.wiki/sCU)
+     * [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see [WD query](https://w.wiki/sFn)
 
 * see also [Our World in Data - Coronavirus (COVID-19) Vaccinations](https://ourworldindata.org/covid-vaccinations)
 
@@ -24,8 +24,8 @@
 
 ![Corona Vaccination Continent Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png?raw=true "Corona Vaccination Continent Scatter plot")         
 ![EU member scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_EUCategorical_scatterplot.png?raw=true "EU member scatter plot")         
-![Member G8 scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_G8_Categorical_scatterplot?raw=true "G8 member scatter plot")         
-![Member G20 scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_G20_Categorical_scatterplot?raw=true "G20 member scatter plot")         
+![Member G8 scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_G8_Categorical_scatterplot.png?raw=true "G8 member scatter plot")         
+![Member G20 scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_G20_Categorical_scatterplot.png?raw=true "G20 member scatter plot")         
 
 ![Corona_Vaccination Correlation heatmap](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Correlation_heatmap.png?raw=true "Corona Vaccination Correlation")         
 
@@ -35,12 +35,12 @@
 ![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
 ### Version history 
-* 0.5
+* 0.6
   * new charts 
      * [EU member scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/images/Corona_VaccinationperCountryPopulation_EUCategorical_scatterplot.png "EU member scatter plot")          
      * [Member G8 scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/images/Corona_VaccinationperCountryPopulation_G8_Categorical_scatterplot.png "G8 member scatter plot")          
      * [Member G20 scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/images/Corona_VaccinationperCountryPopulation_G20_Categorical_scatterplot.png "G20 member scatter plot")          
-  * new parameter [G8 G20 IMF]https://w.wiki/sFn) from Wikidata
+  * new parameter [G8 G20 IMF](https://w.wiki/sFn) from Wikidata
 * 0.5
   * new chart [Continent scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/images/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png "Corona Vaccination Correlation")          
   * new parameter [continent](https://w.wiki/sBb) from Wikidata
