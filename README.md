@@ -14,7 +14,7 @@ see [Notebook](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Check
 * [CoronaVaccinationCheck Board](https://github.com/salgo60/CoronaVaccinationCheck/projects/1)                  
 ![Corona_Vaccination / Population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true "Corona Vaccination per population")         
 
-![Corona Vaccination Continet Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png?raw=true "Corona Vaccination Continet Scatter plot")         
+![Corona Vaccination Continent Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png?raw=true "Corona Vaccination Continent Scatter plot")         
 
 ![Corona_Vaccination Correlation heatmap](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Correlation_heatmap.png?raw=true "Corona Vaccination Correlation")         
 
