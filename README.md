@@ -25,7 +25,7 @@ see [Notebook](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Check
 
 ### Version history
 * 0.5
-  * new chart [Continent scatter plot](https://github.com/salgo60/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png?raw=true "Corona Vaccination Correlation")          
+  * new chart [Continent scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png "Corona Vaccination Correlation")          
   * new parameter [continent](https://w.wiki/sBb) from Wikidata
 * 0.4
   * new chart [correlation heat map](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Correlation_heatmap.png?raw=true "Corona Vaccination Correlation")          
