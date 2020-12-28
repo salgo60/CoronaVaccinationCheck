@@ -1,6 +1,10 @@
 # Corona vaccine progress
-see [Notebook](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Check%20Corona%20Vaccination.ipynb) 
-*  accessing data from [github owid covid-19-data vaccinations country_data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations/country_data) and [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see [WD query](https://w.wiki/sCU)
+"Tracking COVID-19 vaccination rates is crucial to understand the scale of protection against the virus, and how this is distributed across the global population." [tweet Our World in Data](https://twitter.com/OurWorldInData/status/1339199049388478465?s=20)
+
+* [Notebook](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Check%20Corona%20Vaccination.ipynb) "Corona vaccine progress"
+  *  accessing data from 
+     * [github owid covid-19-data vaccinations country_data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations/country_data) 
+     * [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see [WD query](https://w.wiki/sCU)
 
 * see also [Our World in Data - Coronavirus (COVID-19) Vaccinations](https://ourworldindata.org/covid-vaccinations)
 
