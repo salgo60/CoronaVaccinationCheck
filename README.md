@@ -1,6 +1,14 @@
 # Corona vaccine progress
-see [Notebook](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Check%20Corona%20Vaccination.ipynb) 
-*  accessing data from [github owid covid-19-data vaccinations country_data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations/country_data) and [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see [WD query](https://w.wiki/sBU)
+"Tracking COVID-19 vaccination rates is crucial to understand the scale of protection against the virus, and how this is distributed across the global population." [tweet Our World in Data](https://twitter.com/OurWorldInData/status/1339199049388478465?s=20), see also [tweet](https://twitter.com/verboom/status/1342942624609665024?s=20) "When will coranvirus vaccines be widely available"
+
+![coranvirus vaccines be widely available](https://pbs.twimg.com/media/EqMWmOWXUAAkk_Q?format=jpg&name=small "coranvirus vaccines be widely available")         
+
+
+
+* [Notebook](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Check%20Corona%20Vaccination.ipynb) "Corona vaccine progress"
+  *  accessing data from 
+     * [github owid covid-19-data vaccinations country_data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations/country_data) 
+     * [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see [WD query](https://w.wiki/sCU)
 
 * see also [Our World in Data - Coronavirus (COVID-19) Vaccinations](https://ourworldindata.org/covid-vaccinations)
 
@@ -14,7 +22,7 @@ see [Notebook](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Check
 * [CoronaVaccinationCheck Board](https://github.com/salgo60/CoronaVaccinationCheck/projects/1)                  
 ![Corona_Vaccination / Population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true "Corona Vaccination per population")         
 
-![Corona Vaccination Continet Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png?raw=true "Corona Vaccination Continet Scatter plot")         
+![Corona Vaccination Continent Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png?raw=true "Corona Vaccination Continent Scatter plot")         
 
 ![Corona_Vaccination Correlation heatmap](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Correlation_heatmap.png?raw=true "Corona Vaccination Correlation")         
 
@@ -23,9 +31,9 @@ see [Notebook](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Check
 
 ![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
-### Version history
+### Version history 
 * 0.5
-  * new chart [Continent scatter plot](https://github.com/salgo60/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png?raw=true "Corona Vaccination Correlation")          
+  * new chart [Continent scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png "Corona Vaccination Correlation")          
   * new parameter [continent](https://w.wiki/sBb) from Wikidata
 * 0.4
   * new chart [correlation heat map](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Correlation_heatmap.png?raw=true "Corona Vaccination Correlation")          
