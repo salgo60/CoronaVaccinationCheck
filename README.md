@@ -1,6 +1,6 @@
 # Corona vaccine progress
 see [Notebook](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Check%20Corona%20Vaccination.ipynb) 
-*  accessing data from [github owid covid-19-data vaccinations country_data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations/country_data) and [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see [WD query](https://w.wiki/sBU)
+*  accessing data from [github owid covid-19-data vaccinations country_data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations/country_data) and [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see [WD query](https://w.wiki/sCU)
 
 * see also [Our World in Data - Coronavirus (COVID-19) Vaccinations](https://ourworldindata.org/covid-vaccinations)
 
