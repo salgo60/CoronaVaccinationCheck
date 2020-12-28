@@ -20,26 +20,35 @@
        * Sweden 
          * 2020-12-22 [www.regeringen.se](https://www.regeringen.se/artiklar/2020/12/vaccinering-mot-covid-19-inleds-den-27-december) Pfizer/BioNTech start 27 dec 9 750 doses 
 * [CoronaVaccinationCheck Board](https://github.com/salgo60/CoronaVaccinationCheck/projects/1)                  
-![Corona_Vaccination / Population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true "Corona Vaccination per population")         
+![Corona_Vaccination / Population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true "Corona Vaccination per population")         
 
-![Corona Vaccination Continent Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png?raw=true "Corona Vaccination Continent Scatter plot")         
+![Corona Vaccination Continent Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png?raw=true "Corona Vaccination Continent Scatter plot")         
+![EU member scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_EUCategorical_scatterplot.png?raw=true "EU member scatter plot")         
+![Member G8 scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_G8_Categorical_scatterplot?raw=true "G8 member scatter plot")         
+![Member G20 scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_G20_Categorical_scatterplot?raw=true "G20 member scatter plot")         
 
-![Corona_Vaccination Correlation heatmap](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Correlation_heatmap.png?raw=true "Corona Vaccination Correlation")         
+![Corona_Vaccination Correlation heatmap](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Correlation_heatmap.png?raw=true "Corona Vaccination Correlation")         
 
 
-![Corona_Vaccination per Country](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountry.png?raw=true "Corona Vaccination per Country")         
+![Corona_Vaccination per Country](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountry.png?raw=true "Corona Vaccination per Country")         
 
-![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
+![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
 ### Version history 
 * 0.5
-  * new chart [Continent scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png "Corona Vaccination Correlation")          
+  * new charts 
+     * [EU member scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/images/Corona_VaccinationperCountryPopulation_EUCategorical_scatterplot.png "EU member scatter plot")          
+     * [Member G8 scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/images/Corona_VaccinationperCountryPopulation_G8_Categorical_scatterplot.png "G8 member scatter plot")          
+     * [Member G20 scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/images/Corona_VaccinationperCountryPopulation_G20_Categorical_scatterplot.png "G20 member scatter plot")          
+  * new parameter [G8 G20 IMF]https://w.wiki/sFn) from Wikidata
+* 0.5
+  * new chart [Continent scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/images/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png "Corona Vaccination Correlation")          
   * new parameter [continent](https://w.wiki/sBb) from Wikidata
 * 0.4
-  * new chart [correlation heat map](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Correlation_heatmap.png?raw=true "Corona Vaccination Correlation")          
+  * new chart [correlation heat map](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Correlation_heatmap.png?raw=true "Corona Vaccination Correlation")          
   * new parameter [member in EU or not](https://w.wiki/s8F) from Wikidata
 * 0.302
-  * [Seaborn](https://seaborn.pydata.org/) used to create [barchart](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true)
+  * [Seaborn](https://seaborn.pydata.org/) used to create [barchart](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true)
 * 0.3
   * as data is reported both for United Kingdom but also subnational data England, Scotland, Northern Ireland, Wales see [issue 228](https://github.com/owid/covid-19-data/issues/228) this version filter subnational data out. Subnational data have been published quite irregularly so far...
   * added translations of Labels in data to Wikidata Qnumber --> [Semantic interoperability](https://en.wikipedia.org/wiki/Semantic_interoperability#:~:text=Semantic%20interoperability%20is%20the%20ability,data%20federation%20between%20information%20systems.) with Wikidata
@@ -49,4 +58,4 @@
      * [nominal GDP per Capita](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita) -> Wikidata Property  [P2132](https://www.wikidata.org/wiki/Property_talk:P2132) 
      * [PPP GDP per capita](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita)  -> Wikidata Property [P2299](https://www.wikidata.org/wiki/Property_talk:P2299)
      * [Human Development Index](http://hdr.undp.org/en/content/human-development-index-hdi) -> Wikidata Property [P1081](https://www.wikidata.org/wiki/Property_talk:P1081) 
-  * plot [Corona_VaccinationperCountryPopulation](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/Corona_VaccinationperCountryPopulation.png?raw=true)
+  * plot [Corona_VaccinationperCountryPopulation](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation.png?raw=true)
