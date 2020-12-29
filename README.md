@@ -39,6 +39,9 @@
 ![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
 ### Version history 
+* 0.8
+  * Supports ISO_code #5 - refractor away reconciliation
+  * added sub_title with total
 * 0.7
   * new charts 
      * [Top 10](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_1_10.png?raw=true)
