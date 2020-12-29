@@ -40,7 +40,7 @@
 
 ### Version history 
 * 0.8
-  * Supports ISO_code #5 - refractor away reconciliation
+  * Supports ISO_code #5 - code refactoring took away WD reconciliation
   * added sub_title with total
 * 0.7
   * new charts 
