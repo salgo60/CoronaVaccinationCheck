@@ -27,6 +27,8 @@
 
 
 ![Corona Vaccination Continent Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png?raw=true "Corona Vaccination Continent Scatter plot")         
+![Corona Vaccination Continent Total Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryTotal_Categorical_scatterplot.png?raw=true "Corona Vaccination Total Continent Scatter plot")         
+
 ![EU member scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_EUCategorical_scatterplot.png?raw=true "EU member scatter plot")         
 ![Member G8 scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_G8_Categorical_scatterplot.png?raw=true "G8 member scatter plot")         
 ![Member G20 scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_G20_Categorical_scatterplot.png?raw=true "G20 member scatter plot")         
@@ -39,6 +41,11 @@
 ![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
 ### Version history 
+Corona_VaccinationperCountryTotal_Categorical_scatterplot.png
+* 0.81
+  * new chart
+     * [Total Continent Scatter](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryTotal_Categorical_scatterplot.png?raw=true)
+    
 * 0.8
   * Supports ISO_code #5 - code refactoring took away WD reconciliation
   * added sub_title with total
