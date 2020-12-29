@@ -22,6 +22,10 @@
 * [CoronaVaccinationCheck Board](https://github.com/salgo60/CoronaVaccinationCheck/projects/1)                  
 ![Corona_Vaccination / Population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true "Corona Vaccination per population")         
 
+![Top 10](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_1_10.png?raw=true)
+![10 - ](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_10_.png?raw=true)
+
+
 ![Corona Vaccination Continent Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png?raw=true "Corona Vaccination Continent Scatter plot")         
 ![EU member scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_EUCategorical_scatterplot.png?raw=true "EU member scatter plot")         
 ![Member G8 scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_G8_Categorical_scatterplot.png?raw=true "G8 member scatter plot")         
@@ -35,6 +39,10 @@
 ![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
 ### Version history 
+* 0.7
+  * new charts 
+     * [Top 10](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_1_10.png?raw=true)
+     * [10 - ](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_10_.png?raw=true)
 * 0.6
   * new charts 
      * [EU member scatter plot](https://raw.githubusercontent.com/salgo60/CoronaVaccinationCheck/main/images/Corona_VaccinationperCountryPopulation_EUCategorical_scatterplot.png "EU member scatter plot")          
