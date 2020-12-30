@@ -21,7 +21,7 @@
          * 2020-12-22 [www.regeringen.se](https://www.regeringen.se/artiklar/2020/12/vaccinering-mot-covid-19-inleds-den-27-december) Pfizer/BioNTech start 27 dec 9 750 doses 
 * [CoronaVaccinationCheck Board](https://github.com/salgo60/CoronaVaccinationCheck/projects/1)                  
 
-!Line chart](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_Line.png?raw=true "Corona Vaccination Line chart")
+![Line chart](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_Line.png?raw=true "Corona Vaccination Line chart")
 
 ![Corona_Vaccination / Population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true "Corona Vaccination per population")         
 
