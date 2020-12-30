@@ -20,6 +20,9 @@
        * Sweden 
          * 2020-12-22 [www.regeringen.se](https://www.regeringen.se/artiklar/2020/12/vaccinering-mot-covid-19-inleds-den-27-december) Pfizer/BioNTech start 27 dec 9 750 doses 
 * [CoronaVaccinationCheck Board](https://github.com/salgo60/CoronaVaccinationCheck/projects/1)                  
+
+!Line chart](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_Line.png?raw=true "Corona Vaccination Line chart")
+
 ![Corona_Vaccination / Population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true "Corona Vaccination per population")         
 
 ![Top 10](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_1_10.png?raw=true)
@@ -42,10 +45,12 @@
 
 ### Version history 
 Corona_VaccinationperCountryTotal_Categorical_scatterplot.png
+* 0.82
+  * new chart
+     * [Line chart](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_Line.png?raw=true)
 * 0.81
   * new chart
-     * [Total Continent Scatter](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryTotal_Categorical_scatterplot.png?raw=true)
-    
+     * [Total Continent Scatter](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryTotal_Categorical_scatterplot.png?raw=true)    
 * 0.8
   * Supports ISO_code #5 - code refactoring took away WD reconciliation
   * added sub_title with total
