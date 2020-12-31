@@ -9,7 +9,7 @@
   *  accessing data from 
      * [github owid covid-19-data vaccinations country_data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations/country_data) 
        * [A cross-country database of COVID-19 testing](https://www.nature.com/articles/s41597-020-00688-8) DOI: [10.6084/m9.figshare.12924755.v1](https://doi.org/10.6084/m9.figshare.12924755.v1)
-     * [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see [WD query](https://w.wiki/sFn)
+     * [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see [WD query](https://w.wiki/sYZ)
 
 * see also [Our World in Data - Coronavirus (COVID-19) Vaccinations](https://ourworldindata.org/covid-vaccinations)
 
