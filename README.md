@@ -29,6 +29,7 @@
 ![Top 10](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_1_10.png?raw=true)
 ![10 - ](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_10_.png?raw=true)
 
+![Europe: Vaccination numbers % of population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_EuropeVaccinationperCountryPopulation.png?raw=true)
 
 ![Corona Vaccination Continent Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_Categorical_scatterplot.png?raw=true "Corona Vaccination Continent Scatter plot")         
 ![Corona Vaccination Continent Total Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryTotal_Categorical_scatterplot.png?raw=true "Corona Vaccination Total Continent Scatter plot")         
@@ -45,7 +46,9 @@
 ![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
 ### Version history 
-Corona_VaccinationperCountryTotal_Categorical_scatterplot.png
+* 0.84 
+  * new chart
+     * [Europe: Vaccination numbers % of population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_EuropeVaccinationperCountryPopulation.png?raw=true)
 * 0.82
   * new chart
      * [Line chart](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_Line.png?raw=true)
