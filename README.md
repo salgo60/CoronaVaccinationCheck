@@ -53,6 +53,8 @@
 ![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
 ### Version history 
+* 0.88
+  * total vaccinations Europe added to graphs  
 * 0.87 
   * new chart
      * [Europe: All countries scatterplot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperPopulation_AllEurope_scatterplot.png?raw=true)
