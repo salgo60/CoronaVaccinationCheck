@@ -9,7 +9,7 @@
   *  accessing data from 
      * [github owid covid-19-data vaccinations country_data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations/country_data) 
        * [A cross-country database of COVID-19 testing](https://www.nature.com/articles/s41597-020-00688-8) DOI: [10.6084/m9.figshare.12924755.v1](https://doi.org/10.6084/m9.figshare.12924755.v1)
-     * [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see [WD query](https://w.wiki/sYZ)
+     * [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) see [WD query](https://w.wiki/sp2)
 
 * see also [Our World in Data - Coronavirus (COVID-19) Vaccinations](https://ourworldindata.org/covid-vaccinations)
 
@@ -53,6 +53,8 @@
 ![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
 ### Version history 
+* 0.89
+  * new [SPARQL](https://w.wiki/sp2)  
 * 0.88
   * total vaccinations Europe added to graphs  
 * 0.87 
