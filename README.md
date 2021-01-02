@@ -23,7 +23,7 @@
 * [CoronaVaccinationCheck Board](https://github.com/salgo60/CoronaVaccinationCheck/projects/1)                  
 
 ![Line chart](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_Line.png?raw=true "Corona Vaccination Line chart")
-
+ 
 ![Corona_Vaccination / Population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_2.png?raw=true "Corona Vaccination per population")         
 
 ![Top 10](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_1_10.png?raw=true)
