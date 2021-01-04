@@ -44,7 +44,6 @@
 ![Corona Vaccination Continent Total Scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryTotal_Categorical_scatterplot.png?raw=true "Corona Vaccination Total Continent Scatter plot")         
 
 ![EU member scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_EUCategorical_scatterplot.png?raw=true "EU member scatter plot")         
-![Member G8 scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_G8_Categorical_scatterplot.png?raw=true "G8 member scatter plot")         
 ![Member G20 scatter plot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_G20_Categorical_scatterplot.png?raw=true "G20 member scatter plot")         
 
 ![Corona_Vaccination Correlation heatmap](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Correlation_heatmap.png?raw=true "Corona Vaccination Correlation")         
