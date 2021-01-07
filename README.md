@@ -29,6 +29,9 @@
 ![Top 10](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_1_10.png?raw=true)
 ![10 - ](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperCountryPopulation_sns_10_.png?raw=true)
 
+![EU Vaccination per Country](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/EU_VaccinationperCountry.png?raw=true)
+![EU percent Vaccination per Country](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/EU_PercentVaccinationperCountry.png?raw=true)
+
 ![Europe: Vaccination numbers % of population](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_EuropeVaccinationperCountryPopulation.png?raw=true)
 
 ![Europe: Vaccination numbers](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_EuropeVaccinationperCountry.png?raw=true)
@@ -54,6 +57,10 @@
 ![Corona_Vaccination per Vaccine](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_VaccinationperVaccine.png?raw=true "Corona Vaccination per Vaccine")         
 
 ### Version history 
+* 0.91
+  * new chart
+     * [EU Vaccination per Country](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/EU_VaccinationperCountry.png?raw=true)
+     * [EU percent Vaccination per Country](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/EU_PercentVaccinationperCountry.png?raw=true)
 * 0.90
   * new chart
      * [Europe: Corona Europe gender % scatterplot](https://github.com/salgo60/CoronaVaccinationCheck/blob/main/images/Corona_AllEurope_percent_gender_scatterplot.png?raw=true)
