@@ -1,3 +1,5 @@
+This data is not supporting [issue 11](https://github.com/salgo60/CoronaVaccinationCheck/issues/11) Number people Vaccinated and number vaccinations
+
 # Corona vaccine progress
 "Tracking COVID-19 vaccination rates is crucial to understand the scale of protection against the virus, and how this is distributed across the global population." [tweet Our World in Data](https://twitter.com/OurWorldInData/status/1339199049388478465?s=20), see also [tweet](https://twitter.com/verboom/status/1342942624609665024?s=20) "When will coranvirus vaccines be widely available"
 
